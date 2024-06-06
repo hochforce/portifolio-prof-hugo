@@ -16,8 +16,8 @@ Projeto desenvolvido com meus alunos em um curso técnico em informática.
 
 <a href="https://ramonegata.github.io/PORTFOLIO/" target="_blank">Ramone</a>
 
-<a href="https://br7santoss.github.io/portif-lio/" target="_parent">Bruno</a>
+<a href="https://br7santoss.github.io/portif-lio/" target="_blank">Bruno</a>
 
-<a href="https://nani-silva.github.io/portfolio/" target="_self">Ananias</a>
+<a href="https://nani-silva.github.io/portfolio/" target="_blank">Ananias</a>
 
-<a href="https://ueslei28.github.io/portfolio/" target="_top">Ueslei</a>
+<a href="https://ueslei28.github.io/portfolio/">Ueslei</a>
