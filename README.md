@@ -2,22 +2,22 @@
 ## Curso Técnico em Informática
 Projeto desenvolvido com meus alunos em um curso técnico em informática.
 
-https://davipgaia.github.io/Portf-lio/
+<a href="https://davipgaia.github.io/Portf-lio/" target="_blank">Davi</a>
 
-https://camilagrb.github.io/Portifolio/
+<a href="https://camilagrb.github.io/Portifolio/" target="_blank">Camila e Carine</a>
 
-https://vitoriataine.github.io/portifolio/
+<a href="https://vitoriataine.github.io/portifolio/" target="_blank">Vitória</a>
 
-https://jamillytec.github.io/Portifolio/
+<a href="https://jamillytec.github.io/Portifolio/" target="_blank">Jamily</a>
 
-https://juniormac17.github.io/portfolio/
+<a href="https://juniormac17.github.io/portfolio/" target="_blank">Júnior</a>
 
-https://ana-mouraria.github.io/portfolio/
+<a href="https://ana-mouraria.github.io/portfolio/" target="_blank">Ana Paula</a>
 
-https://ramonegata.github.io/PORTFOLIO/
+<a href="https://ramonegata.github.io/PORTFOLIO/" target="_blank">Ramone</a>
 
-https://br7santoss.github.io/portif-lio/
+<a href="https://br7santoss.github.io/portif-lio/" target="_blank">Bruno</a>
 
-https://nani-silva.github.io/portfolio/
+<a href="https://nani-silva.github.io/portfolio/" target="_blank">Ananias</a>
 
-https://ueslei28.github.io/portfolio/
+<a href="https://ueslei28.github.io/portfolio/" target="_blank">Ueslei</a>
