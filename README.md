@@ -1,7 +1,7 @@
-# Formulário Simples com HTML e CSS
-## Curso Técnico em Informática
-Projeto desenvolvido com meus alunos em um curso técnico em informática.
-Segue a lista dos portfólios desenvolvidos por eles utilizando apenas HTML e CSS:
+# Curso Técnico em Informática
+## Trabalho dos alunos do curso Técnico em Informática da Escola Estadual Moacir Cândido
+Projeto desenvolvido com meus alunos durante a disciplina de Desenvolvimento Web.
+Segue a lista dos portfólios criados por eles utilizando apenas HTML e CSS:
 
 <a href="https://davipgaia.github.io/Portf-lio/" target="_blank">Davi</a>
 
