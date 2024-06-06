@@ -1,6 +1,7 @@
 # Formulário Simples com HTML e CSS
 ## Curso Técnico em Informática
 Projeto desenvolvido com meus alunos em um curso técnico em informática.
+Segue a lista dos portfólios desenvolvidos por eles utilizando apenas HTML e CSS:
 
 <a href="https://davipgaia.github.io/Portf-lio/" target="_blank">Davi</a>
 
@@ -20,4 +21,4 @@ Projeto desenvolvido com meus alunos em um curso técnico em informática.
 
 <a href="https://nani-silva.github.io/portfolio/" target="_blank">Ananias</a>
 
-<a href="https://ueslei28.github.io/portfolio/">Ueslei</a>
+<a href="https://ueslei28.github.io/portfolio/" target="_blank">Ueslei</a>
