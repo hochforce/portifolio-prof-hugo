@@ -26,3 +26,7 @@ Segue a lista dos portfólios criados por eles utilizando apenas HTML e CSS:
 <a href="https://rafaelxit08.github.io/portifolio/" target="_blank">Rafael</a>
 
 <a href="https://jogadorone.github.io/portifolio/" target="_blank">Luan</a>
+
+<a href="https://jogadoracarissima.github.io/indexhtml/" target="_blank">Luana</a>
+
+<a href="https://danilosdfg.github.io/portfolio/" target="_blank">Danilo</a>
